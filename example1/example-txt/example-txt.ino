@@ -1,16 +1,3 @@
-// PagedDisplayForSmallRam : test example for e-Paper displays from Waveshare and from Dalian Good Display Inc.
-//                           shows how the full display screen can be used with Adafruit_GFX on small RAM Arduinos
-//                           runs also on Arduinos with more RAM, e.g. ESP8266, for test
-//
-// Created by Jean-Marc Zingg based on demo code from Good Display for GDEP015OC1.
-//
-// The e-paper displays are available from:
-//
-// https://www.aliexpress.com/store/product/Wholesale-1-54inch-E-Ink-display-module-with-embedded-controller-200x200-Communicate-via-SPI-interface-Supports/216233_32824535312.html
-//
-// http://www.buy-lcd.com/index.php?route=product/product&path=2897_8363&product_id=35120
-// or https://www.aliexpress.com/store/product/E001-1-54-inch-partial-refresh-Small-size-dot-matrix-e-paper-display/600281_32815089163.html
-//
 
 // mapping suggestion for AVR, UNO, NANO etc.
 // BUSY -> 7, RST -> 9, DC -> 8, CS-> 10, CLK -> 13, DIN -> 11

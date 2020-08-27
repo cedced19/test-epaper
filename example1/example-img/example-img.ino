@@ -24,7 +24,7 @@ void setup(void)
   Serial.println("setup done");
   delay(1000);  
   display.drawBitmap(gImage_IMG_0001, sizeof(gImage_IMG_0001));
-  display.update();
+  display.powerDown();
 }
 
 void loop()
