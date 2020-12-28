@@ -23,4 +23,4 @@ Connect Arduino UNO to epaper display:
 * rst to 9
 * busy to 7
 
-![Result](result1.png)
+![Result](result1.jpg)
