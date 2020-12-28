@@ -10,7 +10,8 @@ I have brought an epaper display I wanted to try it.
 * https://github.com/ZinggJM/GxEPD/blob/master/src/GxEPD.h
 
 
-## `example1/example-img/`
+<h2>`example1/example-img/`</h2>
+
 
 Connect Arduino UNO to epaper display:
 
